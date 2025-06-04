@@ -1,3 +1,7 @@
+# Interview Question
+Otp Functionality of moving cursor to next input when number is filled and going backward clearing the previous when backspace is clicked.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
